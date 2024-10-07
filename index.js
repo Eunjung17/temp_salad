@@ -177,7 +177,7 @@ function numberSort(numbers){
   return numbers;
 }
 
-// Peform some calculations on the numbers.
+// Peform some calculations on the numbers. change.
 console.log(`The number(s) that you put : ${numberSort(numbers)}`);
 console.log(`You have given ${getLength(numbers)} numbers.`);
 console.log(`The sum of your numbers is ${getSum(numbers)}.`);
